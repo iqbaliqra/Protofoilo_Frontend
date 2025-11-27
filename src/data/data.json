@@ -1,0 +1,350 @@
+{
+    "Projects": [
+      {
+        "_id": "1",
+        "title": "Healentra",
+        "description": "Healentra – A comprehensive healthcare platform connecting patients and doctors for seamless consultations. The platform is designed to provide real-time, secure, and efficient communication between patients and healthcare providers while allowing admins to manage the ecosystem effectively.\n\nKey Features:\n\nPatient Features:\n\nBook consultations with doctors based on available slots.\nJoin video consultations via Zoom Video SDK.\nCommunicate with doctors through audio and text consultations using WebSocket.\nView and manage all past and upcoming consultations.\nUpdate and manage their profile information.\n\nDoctor Features:\n\nSet and manage available consultation slots.\nConduct video consultations via Zoom Video SDK.\nCommunicate with patients in audio or text consultations using WebSocket.\nView and manage all consultations.\nPurchase subscription plans and cancel them at the end of the subscription period.\nUpdate and manage profile information.\nComplete onboarding and receive admin approval before offering consultations.\n\nAdmin Features:\n\nManage all doctors, patients, and consultations on the platform.\nOversee and manage subscription plans.\nUpdate doctor and patient credentials and send notifications via email.\nApprove doctors after onboarding is completed.",
+        "gitRepoLink": "https://dgbeorwuitdiy.cloudfront.net/",
+        "projectLink": "https://dgbeorwuitdiy.cloudfront.net/",
+        "technologies": "Next.js, Redux, Redux Toolkit, Tailwind CSS, TypeScript, Node.js, Express.js, JWT, AWS S3, WebSocket, Zoom Video SDK, React big calendar",
+        "stack": "Full Stack",
+        "deployed": "Yes",
+        "projectBanner": {
+          "public_id": "PORTFOLIO PROJECT IMAGES/pqpglbdwxwsirtynayip",
+          "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1763992652/PORTFOLIO%20PROJECT%20IMAGES/pqpglbdwxwsirtynayip.png"
+        }
+      },
+      {
+        "_id": "2",
+        "title": "NoStressMD",
+        "description": "NoStressMD is a digital healthcare platform that provides private, fast, and hassle-free medical services online. It connects users directly with licensed healthcare professionals, enabling personalized prescriptions and medication delivery—either to your door or for pickup at a local pharmacy—without the need for insurance or in-person doctor visits.\n\nNoStressMD focuses on several key areas to make healthcare accessible and convenient:\n\nGeneral Health: Support for everyday wellness and common health concerns.\nMen's Health: Personalized treatments for men's specific health needs.\nSexual Health: Discreet and professional care to maintain sexual wellness.\nMedications: Easy access to a wide range of non-controlled prescription medications.\n\nHow it works: Users select their symptom or medication, complete a simple online form, and a licensed nurse practitioner reviews the information to create a personalized treatment plan. Prescriptions can then be sent to a pharmacy for pickup or delivered the same day in Houston.",
+        "gitRepoLink": "http://3.145.133.161",
+        "projectLink": "http://3.145.133.161",
+        "technologies": "React.js, Redux Toolkit, JWT, AWS S3, Tailwind CSS, Node.js, Express.js, MongoDB",
+        "stack": "Mern",
+        "deployed": "No",
+        "projectBanner": {
+          "public_id": "PORTFOLIO PROJECT IMAGES/swfxozs9rkv4jdtxetj9",
+          "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1763994568/PORTFOLIO%20PROJECT%20IMAGES/swfxozs9rkv4jdtxetj9.png"
+        }
+      },
+      {
+        "_id": "3",
+        "title": "Weather app",
+        "description": "WeatherApp is a modern weather forecasting web app built with Next.js 14, TypeScript, and Tailwind CSS, offering real-time weather insights, forecasts, and location tracking. It features secure Google login, Stripe-based subscription payments, and beautiful location-aware UI powered by Google Maps and OpenWeatherMap.",
+        "gitRepoLink": "https://github.com/iqbaliqra/Weatherapp",
+        "projectLink": "https://weatherapp-aoczadkjq-mashas-projects-b90df869.vercel.app/login",
+        "technologies": "Next.js 14, TypeScript, Tailwind CSS, PostgreSQL, Prisma ORM, NextAuth.js, Stripe API, OpenWeatherMap API, Google Maps API",
+        "stack": "Next.JS",
+        "deployed": "Yes",
+        "projectBanner": {
+          "public_id": "PORTFOLIO PROJECT IMAGES/rz6hyzyur2bvzdmjxcdb",
+          "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1763995131/PORTFOLIO%20PROJECT%20IMAGES/rz6hyzyur2bvzdmjxcdb.png"
+        }
+      },
+      {
+        "_id": "4",
+        "title": "AI Guide: Interactive Lecture Sessions with Virtual Instructors",
+        "description": "AI-Guide is a mobile application that transforms written text into fully lip-synced video lectures using a custom dataset of five Virtual University (VU) speakers. The system integrates voice cloning, text-to-speech, and lip-syncing technologies to generate realistic, speaker-specific educational videos. The deep learning models are fine-tuned on the custom dataset for higher accuracy, and the application runs on Android using Expo Go.\n\nCustom Dataset\nThe project uses a custom-built dataset consisting of clean audio recordings and front-facing videos of five VU speakers. This dataset enables accurate voice cloning and high-quality lip synchronization.\n\nProject Modules\n\nVoice Cloning & Text-to-Speech\nUsing Coqui TTS, the system converts any input text into synthetic speech that mimics the selected speaker’s voice. The TTS model is fine-tuned on the custom dataset to improve speaker similarity.\n\nLip Syncing\nWav2Lip aligns the generated audio with the speaker’s video, producing natural lip-synced output. The model is also fine-tuned for better synchronization on the custom dataset.\n\nWorkflow\n\nUser enters the text.\nThe system generates speech using the selected speaker’s cloned voice.\nThe generated audio is lip-synced with a speaker video.\nOptional background replacement can be applied.\nThe final processed video is available for download.",
+        "gitRepoLink": "https://github.com/iqraiq/FYPProject",
+        "projectLink": "https://github.com/iqraiq/FYPProject",
+        "technologies": "Deep Learning, Python, React Native, Flask, Kaggle Notebook, TTS (Text-to-Speech), Voice Cloning, Lip Syncing (Wav2Lip), Expo Go",
+        "stack": "",
+        "deployed": "Yes",
+        "projectBanner": {
+          "public_id": "PORTFOLIO PROJECT IMAGES/cjjuvnt5sgw6uaz9333a",
+          "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1764079577/PORTFOLIO%20PROJECT%20IMAGES/cjjuvnt5sgw6uaz9333a.jpg"
+        }
+      }
+    ],
+
+    "Skills":[
+  {
+  "_id": {
+    "$oid": "69077a155d1cc30ed934ab02"
+  },
+  "title": "React",
+  "proficiency": 70,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/ucqberntod6omp8tohwd",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762097686/PORTFOLIO%20SKILL%20IMAGES/ucqberntod6omp8tohwd.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69077a2f5d1cc30ed934ab06"
+  },
+  "title": "Next.js",
+  "proficiency": 70,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/ok8rvsh7wi09fmuf2y3b",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762097713/PORTFOLIO%20SKILL%20IMAGES/ok8rvsh7wi09fmuf2y3b.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69077a485d1cc30ed934ab0a"
+  },
+  "title": "Express.js",
+  "proficiency": 70,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/d9ehxulrxsqzuesvkmoi",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762097738/PORTFOLIO%20SKILL%20IMAGES/d9ehxulrxsqzuesvkmoi.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69077a5c5d1cc30ed934ab0e"
+  },
+  "title": "Node.js",
+  "proficiency": 70,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/lf79jsxmafipc5h2t85k",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762097758/PORTFOLIO%20SKILL%20IMAGES/lf79jsxmafipc5h2t85k.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69077a785d1cc30ed934ab12"
+  },
+  "title": " MongoDB",
+  "proficiency": 70,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/gapa6xk7vtzlguxh797i",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762097786/PORTFOLIO%20SKILL%20IMAGES/gapa6xk7vtzlguxh797i.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69077acd5d1cc30ed934ab20"
+  },
+  "title": "TypeScript",
+  "proficiency": 70,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/fbtkybnsknnlyks61puz",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762097871/PORTFOLIO%20SKILL%20IMAGES/fbtkybnsknnlyks61puz.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69077de65d1cc30ed934ab88"
+  },
+  "title": "MySQL",
+  "proficiency": 65,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/ffpjoyclpp1i0gnnqi05",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762098664/PORTFOLIO%20SKILL%20IMAGES/ffpjoyclpp1i0gnnqi05.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690793995d1cc30ed934abd8"
+  },
+  "title": "Redux",
+  "proficiency": 70,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/capi5dftct7ypt9nwu7f",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762104219/PORTFOLIO%20SKILL%20IMAGES/capi5dftct7ypt9nwu7f.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690793a55d1cc30ed934abdc"
+  },
+  "title": "C#",
+  "proficiency": 70,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/ebb3drpbtomj6fxbjzzb",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762104231/PORTFOLIO%20SKILL%20IMAGES/ebb3drpbtomj6fxbjzzb.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690794205d1cc30ed934abfc"
+  },
+  "title": "JavaScript",
+  "proficiency": 80,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/yytrvlbpfawbac2colwo",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762104353/PORTFOLIO%20SKILL%20IMAGES/yytrvlbpfawbac2colwo.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692317ae8aeda566b65f8eb0"
+  },
+  "title": "Redux Toolkit",
+  "proficiency": 70,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/ywkuhdws6ijeadjgwilc",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1763907500/PORTFOLIO%20SKILL%20IMAGES/ywkuhdws6ijeadjgwilc.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69246fa78aeda566b65f8ef7"
+  },
+  "title": "Stripe ",
+  "proficiency": 74,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/dcelkou2zz8co45ou8av",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1763995559/PORTFOLIO%20SKILL%20IMAGES/dcelkou2zz8co45ou8av.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692470408aeda566b65f8f05"
+  },
+  "title": "Postgre Sql",
+  "proficiency": 60,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/h3pourefyupkmfhuuwzz",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1763995711/PORTFOLIO%20SKILL%20IMAGES/h3pourefyupkmfhuuwzz.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6925be52e772c27f2980fa70"
+  },
+  "title": "Python Flask",
+  "proficiency": 59,
+  "svg": {
+    "public_id": "PORTFOLIO SKILL IMAGES/zpsyzhd8hptsi5frv9cv",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1764081231/PORTFOLIO%20SKILL%20IMAGES/zpsyzhd8hptsi5frv9cv.png"
+  },
+  "__v": 0
+}
+],
+
+
+"Timeline":[
+{
+  "_id": {
+    "$oid": "6925bee3e772c27f2980fa90"
+  },
+  "title": "Final Year Project (AI Guide: Interactive Lecture Sessions with Virtual Instructors)",
+  "description": "AI Guide is an AI-powered educational system that converts English and Urdu text-based lessons into interactive Urdu video lectures. I managed the end-to-end project lifecycle, including planning, task delegation, timeline management, and progress tracking",
+  "timeline": {
+    "from": "2024",
+    "to": "2025"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6925bf5de772c27f2980faaa"
+  },
+  "title": " Full Stack Developer Intern",
+  "description": "Worked as an onsite developer at Inovaqo, building secure REST APIs and database models. Developed web applications using MERN stack, Next.js, and Vue.js. Integrated Firebase Authentication, Firestore, and Stripe for seamless user management and payments. Deployed applications on Vercel and managed databases on Railway, using Prisma for migrations and queries. Worked with AWS services including EC2, Lambda, RDS, S3, and API Gateway to ensure scalable and reliable infrastructure.",
+  "timeline": {
+    "from": "Feb 2025",
+    "to": "Aug 2025"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6925c106e772c27f2980fac6"
+  },
+  "title": "Junior MERN Stack Developer",
+  "description": "Working as a Junior MERN Stack Developer at Endless Innovation, developing full-stack web applications for healthcare projects using MERN, Next.js, and Redux Toolkit. Responsible for designing and implementing secure REST APIs and real-time communication using WebSocket. Integrated Stripe for payment processing, and Zoom Video SDK for video consultations. Deploying and maintaining scalable applications on AWS services including EC2, S3, and RDS.",
+  "timeline": {
+    "from": "Sep 2025",
+    "to": "Nov 2025"
+  },
+  "__v": 0
+}],
+
+
+"MyApps":[{
+  "_id": {
+    "$oid": "690791285d1cc30ed934aba8"
+  },
+  "name": "Visual Studio Code",
+  "svg": {
+    "public_id": "PORTFOLIO SOFTWARE APPLICATION IMAGES/q9hs2pms20xvuxtejewi",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762103594/PORTFOLIO%20SOFTWARE%20APPLICATION%20IMAGES/q9hs2pms20xvuxtejewi.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690791ba5d1cc30ed934abb6"
+  },
+  "name": "Git",
+  "svg": {
+    "public_id": "PORTFOLIO SOFTWARE APPLICATION IMAGES/n9gcckpa8mcefduusmkn",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762103740/PORTFOLIO%20SOFTWARE%20APPLICATION%20IMAGES/n9gcckpa8mcefduusmkn.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690792145d1cc30ed934abba"
+  },
+  "name": "Postman",
+  "svg": {
+    "public_id": "PORTFOLIO SOFTWARE APPLICATION IMAGES/ijkqtbtpv1lx6pyvswfw",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762103830/PORTFOLIO%20SOFTWARE%20APPLICATION%20IMAGES/ijkqtbtpv1lx6pyvswfw.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6907924f5d1cc30ed934abbe"
+  },
+  "name": "Figma",
+  "svg": {
+    "public_id": "PORTFOLIO SOFTWARE APPLICATION IMAGES/rwhiwtqcspzvbzqyoxze",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762103888/PORTFOLIO%20SOFTWARE%20APPLICATION%20IMAGES/rwhiwtqcspzvbzqyoxze.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6907930c5d1cc30ed934abcc"
+  },
+  "name": "Visual Studio",
+  "svg": {
+    "public_id": "PORTFOLIO SOFTWARE APPLICATION IMAGES/z8ctazcyf7h9yeuhsotn",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762104078/PORTFOLIO%20SOFTWARE%20APPLICATION%20IMAGES/z8ctazcyf7h9yeuhsotn.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690793df5d1cc30ed934abea"
+  },
+  "name": "Amazon AWS",
+  "svg": {
+    "public_id": "PORTFOLIO SOFTWARE APPLICATION IMAGES/mkxldticss72zwutw6yx",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1762104289/PORTFOLIO%20SOFTWARE%20APPLICATION%20IMAGES/mkxldticss72zwutw6yx.png"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6924755b8aeda566b65f8f13"
+  },
+  "name": "Cursor",
+  "svg": {
+    "public_id": "PORTFOLIO SOFTWARE APPLICATION IMAGES/mxsvuvktpwbnftarai4i",
+    "url": "https://res.cloudinary.com/dbq3jodvr/image/upload/v1763997018/PORTFOLIO%20SOFTWARE%20APPLICATION%20IMAGES/mxsvuvktpwbnftarai4i.png"
+  },
+  "__v": 0
+}]
+  }
+  
